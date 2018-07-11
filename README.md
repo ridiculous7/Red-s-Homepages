@@ -1,3 +1,3 @@
 # Red-s-Homepages
 just another repository
-a new branch,区别于 master 
+你好，第一次使用 GitHub
